@@ -32,6 +32,5 @@ function login1() {
     window.location.href = validUser.redirectUrl;
   } else {
     alert("SALAH kak !");
-    alert("Hubungi bang Rasyid !");
   }
 }
