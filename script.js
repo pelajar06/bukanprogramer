@@ -12,7 +12,7 @@ var users = [
   },
 
   {
-    username: "aksansaepul",
+    username: "pakaksan",
     password: "",
     redirectUrl:
       "https://i.ibb.co/zSz9BGq/Screenshot-2024-04-02-00-50-01-212-com-miui-gallery.jpg",
@@ -32,5 +32,6 @@ function login1() {
     window.location.href = validUser.redirectUrl;
   } else {
     alert("SALAH kak !");
+    alert("tanya RASYID !");
   }
 }
